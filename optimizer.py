@@ -27,7 +27,7 @@ print("")
 print("Press enter to begin optimization")
 input(">")
 
-load = {0: '|', 1: '/', 2:'-', 3:'\\'}
+load = ['|', '/', '-', '\\']
 spinCounter = 1
 i = 0
 
